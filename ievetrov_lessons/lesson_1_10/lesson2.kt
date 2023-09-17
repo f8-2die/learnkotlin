@@ -1,3 +1,5 @@
+package ievetrov_lessons.lesson_1_10
+
 fun main(){
     val intNum1: Int = 5
     val intNum2: Int = 7

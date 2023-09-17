@@ -1,3 +1,5 @@
+package ievetrov_lessons.lesson_1_10
+
 fun main() {
 
     // диапазоны (интервалы) Range
