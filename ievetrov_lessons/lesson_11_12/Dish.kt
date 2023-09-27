@@ -1,4 +1,4 @@
-package ievetrov_lessons.lesson_11
+package ievetrov_lessons.lesson_11_12
 //в круглых скобках обозначили свойства класса
 class Dish(
     val id: Int,
