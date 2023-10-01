@@ -1,3 +1,4 @@
+//Массивы в Kotlin. Функции для массивов
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

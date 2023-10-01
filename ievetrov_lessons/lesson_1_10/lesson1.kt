@@ -1,3 +1,4 @@
+//Переменные. Базовые типы данных. var, val и const val в Kotlin
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

@@ -1,3 +1,4 @@
+//Цикл for в Kotlin, диапазоны (интервалы)
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

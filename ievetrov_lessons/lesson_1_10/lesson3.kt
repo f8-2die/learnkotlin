@@ -1,3 +1,4 @@
+//Строки в Kotlin. Интерполяция. Конкатенация
 package ievetrov_lessons.lesson_1_10
 
 fun main(){

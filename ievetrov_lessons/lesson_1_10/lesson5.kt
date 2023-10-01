@@ -1,3 +1,4 @@
+//if else when в Kotlin Операторы ветвления или условные операторы
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

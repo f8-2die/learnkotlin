@@ -1,3 +1,4 @@
+//Boolean – логический тип данных в Kotlin. Операторы сравнения
 package ievetrov_lessons.lesson_1_10
 
 fun main(){

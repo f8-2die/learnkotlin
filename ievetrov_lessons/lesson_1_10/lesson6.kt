@@ -1,3 +1,4 @@
+//Циклы в Kotlin. while, do-while
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

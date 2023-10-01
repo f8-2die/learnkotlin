@@ -1,3 +1,4 @@
+//Списки в Kotlin, функции для работы с коллекциями
 package ievetrov_lessons.lesson_1_10
 
 fun main() {

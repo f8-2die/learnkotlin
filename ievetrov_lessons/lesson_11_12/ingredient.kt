@@ -1,4 +1,5 @@
 package ievetrov_lessons.lesson_11_12
+//Конструкторы (primary, secondary). Блоки инициализации init.
 
 //class Ingredient(_name: String, _weight: Int, _count: Int){ // если в круглых скобках пусто, то это первичный конструктор //Ingredient()//
 //    var name = _name
